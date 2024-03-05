@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Business Intelligence, Economics and Coding
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me victor.veintemillas.fernandez@es.ey.com
+- 📫 How to reach me victorveintemillasfernandez@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I practiced Muay Thai 🥊🥊💪💪🦵🦵🦶🦶 for 2 years. Now I am learning to sing 🎤.
 
