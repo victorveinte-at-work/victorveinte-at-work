@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me victor.veintemillas.fernandez@es.ey.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I practice Muay Thai 🥊🥊💪💪🦵🦵🦶🦶 since Febuary 2022.
+- ⚡ Fun fact: I practiced Muay Thai 🥊🥊💪💪🦵🦵🦶🦶 for 2 years. Now I am learning to sing 🎤.
 
 <!---
 victorveinte-at-work/victorveinte-at-work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
